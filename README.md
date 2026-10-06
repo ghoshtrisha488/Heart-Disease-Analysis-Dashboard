@@ -1,3 +1,5 @@
+<img width="1714" height="1128" alt="Screenshot 2026-10-06 231708" src="https://github.com/user-attachments/assets/8034831e-a3f8-4040-9413-8812e4f90f8b" />
+
 # 🫀 Heart Disease Analysis Dashboard
 
 An interactive, dark-themed clinical intelligence dashboard built in **Power BI** to analyze patient survival rates, critical biomarkers, and lifestyle risk factors associated with heart disease.
@@ -27,6 +29,6 @@ In healthcare analytics, turning complex clinical records into clear, actionable
 * **Data Visualizations:** Custom trend lines, distribution cards, and comparative bar matrices.
 
 ---
-<img width="1714" height="1128" alt="Screenshot 2026-10-06 231708" src="https://github.com/user-attachments/assets/4bf31e12-0444-4e28-ac92-25f6af5e9c34" />
+
 
 
